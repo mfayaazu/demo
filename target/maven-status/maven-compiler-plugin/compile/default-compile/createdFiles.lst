@@ -1,0 +1,4 @@
+com\example\demo\resources\HelloResource.class
+com\example\demo\model\Student.class
+com\example\demo\resources\StudentResource.class
+com\example\demo\HelloApplication.class
